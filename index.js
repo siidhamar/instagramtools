@@ -37,56 +37,56 @@ const main = async () => {
     switch(toolChoise){
 
       case "[!] Lihat Informasi Tools":
-      const infotools = require('./tools/infotools.js');
+      const infotools = require('tools-infotools.js');
       break;
 
       case "[-] BomLikeTarget (With Sleep)":
-      const bomliketarget = require('./tools/bomliketarget.js');
+      const bomliketarget = require('tools-bomliketarget.js');
       await bomliketarget();
       break;
 
       case "[-] Botlike TL v1 (With Delay)":
-      const botlike = require('./tools/botlike.js');
+      const botlike = require('.tools-botlike.js');
       await botlike();
       break;
 
       case "[-] Botlike TL v2 (Otomatis)":
-      const botlike2 = require('./tools/botlike2.js');
+      const botlike2 = require('tools-botlike2.js');
       await botlike2();
       break;
 
       case "[-] Delete All Media/POST IG":
-      const dellallphoto = require('./tools/dellallphoto.js');
+      const dellallphoto = require('tools-dellallphoto.js');
       await dellallphoto();
       break;
 
       case "[-] Unfollow All Following":
-      const unfollall = require('./tools/unfollall.js');
+      const unfollall = require('tools-unfollall.js');
       await unfollall();
       break;
 
       case "[-] Unfollow Not Followback":
-      const unfollnotfollback = require('./tools/unfollnotfollback.js');
+      const unfollnotfollback = require('tools-unfollnotfollback.js');
       await unfollnotfollback();
       break;
 
       case "[-] Follow Followers Target":
-      const fftauto = require('./tools/fftauto.js');
+      const fftauto = require('tools-fftauto.js');
       await fftauto();
       break;
 
       case "[-] Follow Account By Media":
-      const flmauto = require('./tools/flmauto.js');
+      const flmauto = require('tools-flmauto.js');
       await flmauto();
       break;
 
       case "[-] Follow Account By Hastag":
-      const fah = require('./tools/fah.js');
+      const fah = require('tools-fah.js');
       await fah();
       break;
 
       case "[-] Follow Account By Location":
-      const flaauto = require('./tools/flaauto.js');
+      const flaauto = require('tools-flaauto.js');
       await flaauto();
       break;
 
