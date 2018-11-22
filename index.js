@@ -45,12 +45,12 @@ const main = async () => {
       await bomliketarget();
       break;
 
-      case "[-] Botlike TL v1 (With Sleep)":
+      case "[-] Botlike TL v1 (With Delay)":
       const botlike = require('./tools/botlike.js');
       await botlike();
       break;
 
-      case "[-] Botlike TL v2 (Automatic)":
+      case "[-] Botlike TL v2 (Otomatis)":
       const botlike2 = require('./tools/botlike2.js');
       await botlike2();
       break;
@@ -99,9 +99,9 @@ const main = async () => {
 
   console.log(chalk`
     {bold.green
-  Ξ TITLE  	: [⚡] INSTAGRAM TOOLS [⚡]
-  Ξ UPDATE 	: 01/11/2018-20:40 WITA
-  Ξ AUTHOR 	: Dhamar Faizul Fitrah
+  Ξ TITLE   	: [⚡] INSTAGRAM TOOLS [⚡]
+  Ξ UPDATE   	: 22/11/2018-13.30 WIB
+  Ξ AUTHOR  	: Dhamar Faizul Fitrah
   Ξ INSTAGRAM	: https://www.instagram.com/siidhamar
     }`);
   main()
