@@ -16,8 +16,8 @@ const questionTools = [
   [
   "[!] Lihat Informasi Tools",
   "[-] BomLikeTarget (With Sleep)",
-  "[-] Botlike TL v1 (With Sleep)",
-  "[-] Botlike TL v2 (Automatic)",
+  "[-] Botlike TL v1 (With Delay)",
+  "[-] Botlike TL v2 (Otomatis)",
   "[-] Delete All Media/POST IG",
   "[-] Unfollow All Following",
   "[-] Unfollow Not Followback",
