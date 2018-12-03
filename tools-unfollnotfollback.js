@@ -146,8 +146,7 @@ const Excute = async function(User,sleep,mysyntx){
 }
 console.log(chalk`{bold.green
   Ξ TITLE  : UNFB *UNFOLLOW NOT FOLLOWBACK INSTAGRAM!
-  Ξ CODE   : CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  Ξ UPDATE : ADD ITTYW by @officialputuid
+  Ξ RECODE : S I R E U M ( @siidhamar )
   Ξ STATUS : ITTYW : {bold.green Supported!}}
       `);
 inquirer.prompt(User)
