@@ -104,8 +104,7 @@ const Excute = async function(User){
 }
 console.log(chalk`{bold.green
   Ξ TITLE  : BOTLIKE TL v2 *Automatic.
-  Ξ CODE   : CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  Ξ UPDATE : ADD ITTYW by @officialputuid
+  Ξ RECODE : S I R E U M ( @siidhamar ) 
   Ξ STATUS : ITTYW : {bold.red Not Supported!}}
       `);
 
