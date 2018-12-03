@@ -100,7 +100,7 @@ const main = async () => {
   console.log(chalk`
     {bold.green
   Ξ TITLE   	: [⚡] INSTAGRAM TOOLS [⚡]
-  Ξ UPDATE   	: 22/11/2018-13.30 WIB
+  Ξ UPDATE   	: 03/12/2018-16.35 WIB
   Ξ AUTHOR  	: Dhamar Faizul Fitrah
   Ξ INSTAGRAM	: https://www.instagram.com/siidhamar
     }`);
