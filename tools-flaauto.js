@@ -151,8 +151,7 @@ const doMain = async (account, locationid, sleep, text) => {
 }
 console.log(chalk`{bold.green
   Ξ TITLE  : FLA *FOLLOW,LIKE,COMMENT TARGET LOCATIONid!
-  Ξ CODE   : CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  Ξ UPDATE : ADD ITTYW by @officialputuid
+  Ξ RECODE : S I R E U M ( @siidhamar )
   Ξ STATUS : ITTYW : {bold.red Not Supported!}}
       `);
 inquirer.prompt(question)
